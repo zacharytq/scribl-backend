@@ -1,4 +1,9 @@
-# README
+# Scribl Backend
+
+## Todo
+
+- [] Set up authorization with devise and jwt.
+-
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
